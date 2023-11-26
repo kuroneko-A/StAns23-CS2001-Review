@@ -179,3 +179,17 @@ RHWeek8 Hash Map and hash table
 
 RHWeek10 graph  
 
+3. Algorithms based on that
+4. Comparing Algorithms:Asymptomatic analysis
+
+RHWeek5.       
+
+The thought of Algorithms:
+Using repetitive operation: So mostly the followings are Loop
+JL09-Recursion
+JL13-Iterators 
+
+DIFFERENCE:
+
+JL12-Tree and Graph Traversal
+RHWeek8 Tree Search and Hash table
